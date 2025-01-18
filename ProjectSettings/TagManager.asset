@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CameraSortingLayer
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CameraSortingLayer
+    uniqueID: 1502723787
+    locked: 0
+  - name: WebCam
+    uniqueID: 291250585
+    locked: 0
+  - name: TD
+    uniqueID: 3058129761
+    locked: 0
+  - name: Frame
+    uniqueID: 2117298057
+    locked: 0
+  - name: Flowers
+    uniqueID: 2762610677
+    locked: 0
+  - name: Text
+    uniqueID: 1377546637
+    locked: 0
+  - name: Finish
+    uniqueID: 1971817483
+    locked: 0
